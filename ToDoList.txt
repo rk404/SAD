@@ -1,4 +1,5 @@
 1. Pobrać i przetestować biblioteki do wyliczania AQI
     https://pypi.org/project/python-aqi/ - link do dokumentacji
+    https://github.com/hrbonz/python-aqi/tree/master/aqi - github projektu
 2. Wytypować pomiary z najmniejsza liczbą braków
 2. 
